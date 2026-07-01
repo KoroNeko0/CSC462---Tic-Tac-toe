@@ -77,4 +77,6 @@ Then run the notebook/script to load the data, train each model, and reproduce t
 - Increase MLP capacity and tune architecture.
 - Use grid search / systematic hyperparameter tuning for each model.
 
-Anfal Alobeid, Rama Alfawzan, Maha Aldakhil, Batool Alyousef — King Saud University, CSC462.
+## Authors
+
+Maha bin Dakhil, Anfal Alobeid, Rama Alfawzan, Batool Alyousef — King Saud University, CSC462.
